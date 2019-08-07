@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/common-lib" vcs="" />
+    <mapping directory="$PROJECT_DIR$/mybatis-custom" vcs="" />
+    <mapping directory="$PROJECT_DIR$/mybatis-dal" vcs="" />
+    <mapping directory="$PROJECT_DIR$/mybatis-test" vcs="" />
+  </component>
+</project>
